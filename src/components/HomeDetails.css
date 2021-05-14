@@ -1,0 +1,79 @@
+.kl-content .row .text {
+	padding-top: 40px;
+	padding-left: 50px;
+	padding-right: 40px;
+}
+
+.kl-content .row h1 {
+	font-size: 80px;
+	font-family: Raleway;
+    font-style: normal;
+    font-weight: 700;
+    padding-bottom: 8px;
+}
+
+.kl-content .row p {
+	font-size: 16px;
+	font-family: Raleway;
+}
+
+.kl-content .row h3, .kl-content .row h4 {
+	font-weight: 600;
+	font-family: Raleway;
+	padding-bottom: 5px;
+}
+
+.buttons {
+	padding-top: 10px;
+}
+
+.view {
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    cursor: default;
+}
+
+.hm-black-strong .full-bg-img, .hm-black-strong .mask {
+    background-color: rgba(49, 12, 12, 0.76);
+}
+
+.full-bg-img {
+    position: absolute;
+    overflow: hidden;
+}
+
+.full-bg-img, .img-overlay::after, .view .content, .view .mask {
+    left: 0;
+    height: 100%;
+    width: 100%;
+    top: 0;
+}
+
+.flex-center {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+}
+
+.text {
+	margin-bottom: 40px;
+}
+
+.text h1 {
+	font-size: 300%;
+}
+
+.text h3 {
+	font-size: 200%;
+}
+
+.text-btn {
+	padding: 10px 30px;
+	font-size: 25px;
+}

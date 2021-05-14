@@ -1,0 +1,52 @@
+
+html, body {
+    font-family: 'Roboto', 'Raleway' sans-serif;
+    font-size: 14px;
+    font-style: normal;
+}
+
+.container{
+    margin-top: 35px;
+
+}
+
+input{
+    width: 100%;
+    border: 1px solid #ccc; 
+    
+  } 
+  .search{
+    margin-top:10px;
+    margin-bottom: 20px;
+  }
+
+  img{
+    margin-left: 94px;                
+  } 
+
+  .media-0bject > img{
+    border: 2px solid #ccc;
+    margin-top: 10px;
+
+  }
+  .media-heading{
+    color: #337AB7;
+    font-size: 24px;
+    margin: 10px 0px 10px;
+  }
+  .media-heading:hover{
+    color:red;
+    text-decoration: underline;
+  }
+  button{
+    padding: 5px 10px;
+    background-color: #FFFFFF;
+    border: 1px solid #ccc;
+  }
+  .margin-bottom{
+    margin-bottom:20px;
+  }
+  hr{
+    margin-left: 340px;
+    line-height:20px; 
+  }
